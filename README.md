@@ -4,7 +4,7 @@
 This project presents an interactive Power BI dashboard for analyzing mobile phone sales data. The dashboard provides insights into sales performance, customer behavior, payment methods, and product trends across different cities and time periods.
 
 ## Dashboard Preview
-![Dashboard](MobileSalesDataDashboard.png)
+![Dashboard](MobileSalesDataDashboard.PNG)
 
 ## Key Insights
 - Total sales, quantity, and transaction overview
